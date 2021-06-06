@@ -1,1 +1,1 @@
-web: proyecto-pymeg public/
+web: vendor/bin/heroku-php-apache2 public/
